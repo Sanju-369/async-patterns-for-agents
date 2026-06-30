@@ -63,14 +63,7 @@ Each pattern maps to a real block in the agentic system I'm building:
 | Async generators | Streaming responses that feel instant |
 | `create_task()` | Logging without blocking the response |
 
-## Run It Yourself
 
-```bash
-python async_patterns.py
-```
-
-Requires Python 3.7+. No external dependencies — pure asyncio 
-from the standard library.
 
 ## What's Next
 

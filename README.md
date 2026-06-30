@@ -1,4 +1,4 @@
-# Async Patterns for Agentic Systems
+# Async Patterns for Agen Harness
 
 Six async/await patterns every AI agent needs in production — 
 built and timed to prove they actually work, not just explained in theory.
